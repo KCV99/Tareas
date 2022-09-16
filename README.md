@@ -1,6 +1,6 @@
 # TareasCursos
-Adrian Montañez 
-Ambar Nirvana
+Adrian Montañez,
+Ambar Nirvana,
 Keren Carolina Vanegas 
 
 Este repostorio debe clonarse para reportar las tareas y asignaciones
